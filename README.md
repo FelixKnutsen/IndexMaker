@@ -1,2 +1,2 @@
-# IndexMaker
-Litt leking med frontend
+# IndexMaker  
+Et forsøk på forskjellig stil på frontend
